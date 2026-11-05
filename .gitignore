@@ -1,0 +1,7 @@
+bin/
+shaders/bin/
+
+compile_commands.json
+
+.cache
+.clangd
